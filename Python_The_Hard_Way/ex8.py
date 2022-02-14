@@ -8,5 +8,5 @@ print(formatter.format(
     'This is',
     'a really',
     'dumb',
-    'excercise'
+    'aexcercise'
 ))
